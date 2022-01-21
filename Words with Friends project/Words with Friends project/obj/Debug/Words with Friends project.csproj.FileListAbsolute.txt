@@ -1,0 +1,10 @@
+R:\A-Level\Computer Science\Project\Words with Friends project\Words with Friends project\bin\Debug\Words with Friends project.exe.config
+R:\A-Level\Computer Science\Project\Words with Friends project\Words with Friends project\bin\Debug\Words with Friends project.exe
+R:\A-Level\Computer Science\Project\Words with Friends project\Words with Friends project\bin\Debug\Words with Friends project.pdb
+R:\A-Level\Computer Science\Project\Words with Friends project\Words with Friends project\obj\Debug\Words with Friends project.csprojAssemblyReference.cache
+R:\A-Level\Computer Science\Project\Words with Friends project\Words with Friends project\obj\Debug\Words_with_Friends_project.Form1.resources
+R:\A-Level\Computer Science\Project\Words with Friends project\Words with Friends project\obj\Debug\Words_with_Friends_project.Properties.Resources.resources
+R:\A-Level\Computer Science\Project\Words with Friends project\Words with Friends project\obj\Debug\Words with Friends project.csproj.GenerateResource.cache
+R:\A-Level\Computer Science\Project\Words with Friends project\Words with Friends project\obj\Debug\Words with Friends project.csproj.CoreCompileInputs.cache
+R:\A-Level\Computer Science\Project\Words with Friends project\Words with Friends project\obj\Debug\Words with Friends project.exe
+R:\A-Level\Computer Science\Project\Words with Friends project\Words with Friends project\obj\Debug\Words with Friends project.pdb
